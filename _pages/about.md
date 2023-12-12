@@ -11,7 +11,7 @@ I am a senior from School of Computing, Wuhan University. My research interests 
 
 I am very fortunate to be advised by [Prof.zhu](https://cs.whu.edu.cn/info/1019/2920.htm) from [school of computer science](https://cs.whu.edu.cn/),Wuhan University.
 
-You can find my CV here: [Dai jun's Curriculum Vitae](../assets/CV_Dai.pdf)
+You can find my CV here: [Dai jun's Curriculum Vitae](../assets/CV-Dai.pdf)
 
 [Email](2804364963@qq.com)/[Github](https://github.com/yassuo123king)
 
